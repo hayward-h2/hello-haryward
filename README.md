@@ -1,5 +1,5 @@
 # hello-haryward
-My first repository
+
 $(document).on("click","#more-btn",function(){
 	$dom = $(this).parent();
 	$font = $(this).children();
